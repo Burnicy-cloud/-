@@ -9,3 +9,4 @@ console.log("提交代码");
 // git -rm --catched 文件名  删除仓库里的内容；
 
 console.log("添加内容");
+console.log("再次添加内容");
