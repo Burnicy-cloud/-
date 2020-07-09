@@ -8,3 +8,4 @@ console.log("提交代码");
 // 删除 工作区 仓库 文件  git -rm 文件名；
 // git -rm --catched 文件名  删除仓库里的内容；
 
+console.log("添加内容");
